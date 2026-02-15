@@ -2,3 +2,5 @@ Course_Evaluation_System/
 botpy/
 .venv/
 .claude/
+qqbot-test/shared/__pycache__/
+qqbot-test/botpy.log
