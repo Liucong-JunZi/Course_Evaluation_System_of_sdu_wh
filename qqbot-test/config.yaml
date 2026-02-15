@@ -1,0 +1,8 @@
+appid: "102857826"
+secret: "FUk0HYq8Rl5Ql7TqDbzOoEf6Y0TwQuPv"
+
+# AI配置
+ai:
+  api_key: "sk-rcirirmgopxjfzcitmzefbytumylumipfbnsanjegtydingq"
+  base_url: "https://api.siliconflow.cn/v1"
+  model: "Qwen/Qwen3-8B"

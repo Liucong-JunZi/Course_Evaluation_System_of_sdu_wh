@@ -1,4 +1,3 @@
-"# Course_Evaluation_System_of_sdu_wh" 
 # 异步分离架构QQ机器人
 
 ## 架构
